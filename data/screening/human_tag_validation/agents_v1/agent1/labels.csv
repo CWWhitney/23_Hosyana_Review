@@ -1,0 +1,347 @@
+sample_no,label,reason
+326,unsure,title vague no abstract
+164,exclude,experimental market study no decision-support method
+224,exclude,wetland management synthesis no uncertainty method
+222,exclude,economic sociology no decision method
+122,unsure,vulnerability analysis title only unclear
+249,exclude,no abstract irrelevant title
+22,include,stochastic programming planning under uncertainty
+183,exclude,no abstract vague title
+177,include,probabilistic simulation and VOI for agricultural decisions
+250,exclude,historical non-research
+344,unsure,decision analysis tool title only
+318,exclude,not research output
+315,exclude,no decision method
+18,exclude,behavioural transport study
+52,include,value of information review
+116,exclude,sociology of knowledge
+184,unsure,data collection precision title only
+197,exclude,deterministic game model no uncertainty
+277,exclude,textbook no abstract
+4,unsure,R&D selection methodology report unclear uncertainty
+284,exclude,facility description
+316,exclude,bibliography
+108,exclude,philosophy no decision method
+278,exclude,software report no uncertainty decision
+238,unsure,VOI in decision systems title only
+16,exclude,workshop report no method
+333,exclude,forecasting model not a decision choice
+210,exclude,no abstract irrelevant title
+310,include,Bayesian network decision analysis with VOI for interventions
+237,exclude,no abstract irrelevant title
+248,exclude,information quality model no decision
+185,unsure,inference and decisions under partial information statistics
+30,exclude,IT book no method
+251,exclude,no abstract vague
+99,exclude,bibliography
+80,unsure,selection approach for plants title only
+23,exclude,team formation fuzzy not decision under uncertainty
+299,unsure,decision aids title only
+228,exclude,no abstract vague
+106,unsure,model-based evaluation of management options title only
+280,exclude,evidence synthesis no uncertainty decision method
+178,unsure,decision analysis software report vague
+135,unsure,assessment of uncertainties title only
+70,exclude,information seeking study
+160,exclude,behavioural study
+194,exclude,no abstract garbled
+88,exclude,supply chain demand title only
+5,include,value of information for system design decisions
+240,exclude,no abstract irrelevant
+165,include,regret in expected utility decision under uncertainty
+338,exclude,policy book on PBT no decision method
+155,exclude,no abstract economics evidence
+133,unsure,Bayesian decision theory foundations book
+229,include,decision analysis with parameter uncertainty title clear
+309,exclude,no abstract irrelevant
+47,exclude,journal issue
+208,exclude,no abstract irrelevant
+134,exclude,literature survey of IS
+115,include,review of modelling for eradication decisions with uncertainty
+189,exclude,advertising disclosure discussion
+217,unsure,vulnerability models incomplete information title only
+61,exclude,deterministic game model no uncertainty
+33,exclude,dynamic model no decision support method
+151,exclude,gaming symposium report
+236,exclude,legal comparison
+303,exclude,no abstract irrelevant
+205,exclude,no abstract
+69,exclude,no abstract contract uncertainty not method
+41,include,probabilistic decision analysis of agroforestry options
+11,exclude,education report
+110,include,models for conservation decisions under uncertainty
+200,exclude,conference proceedings
+100,exclude,no abstract logistics
+263,exclude,information access not decision
+141,include,decision analysis framework for clinical decisions
+273,exclude,no abstract irrelevant
+282,exclude,not research output
+40,include,optimal inventory policies under stochastic demand
+345,exclude,no abstract vague
+137,unsure,value of biased information rational choice title only
+144,exclude,course catalogue
+221,exclude,no abstract irrelevant
+111,exclude,planning system engineering no uncertainty decision analysis
+35,include,management strategy evaluation Bayesian with utility
+287,exclude,no abstract irrelevant
+102,exclude,no abstract irrelevant
+268,exclude,research review no method
+2,unsure,expert comparison non-additive title only
+260,exclude,assessment planning example no uncertainty method
+29,include,Bayesian network with VOI for policy decisions
+252,exclude,research agenda report
+90,exclude,data base services report
+285,include,real options under uncertainty for energy decisions
+128,exclude,practice survey report
+93,include,early economic evaluation with VOI
+233,include,review of risk assessment methods for extremes
+329,exclude,economic benefits report no uncertainty method
+105,exclude,bibliography
+9,exclude,no abstract vague
+264,exclude,no abstract names only
+79,exclude,no abstract name only
+34,unsure,economics of climate uncertainty survey title only
+255,include,decision analysis textbook covering uncertainty
+65,exclude,bibliography
+182,include,stochastic programming for production planning
+42,exclude,no abstract irrelevant
+291,exclude,journal issue
+204,exclude,no abstract
+180,exclude,no abstract irrelevant
+163,include,Bayesian re-analysis of HTA decision models
+152,include,stochastic impact evaluation with VOI
+24,unsure,strategic planning title only
+78,exclude,no abstract names
+339,include,evidence collection to reduce supplier selection uncertainty
+193,exclude,no abstract
+175,exclude,no abstract
+209,exclude,no abstract benchmarking
+130,exclude,behavioural adoption survey
+126,include,Monte Carlo decision analysis with VOI
+7,unsure,Bayesian network tutorial no decision context stated
+211,exclude,no abstract interface design
+172,unsure,prescriptive decision aid report vague
+136,exclude,no abstract reasoning
+288,exclude,no abstract education
+247,exclude,conceptual definition no decision method
+60,exclude,no abstract discussion paper
+63,unsure,policy options for external costs title only
+190,exclude,no abstract irrelevant
+320,exclude,no abstract irrelevant
+92,unsure,decision analysis power systems title only
+112,exclude,no abstract vague
+55,include,decision analysis for reservoir protection title clear
+272,unsure,early HTA title only
+117,exclude,social big data book
+231,exclude,no abstract irrelevant
+188,exclude,statistical forecasting no decision
+295,exclude,industry briefing
+259,exclude,conference listing
+311,exclude,no abstract vague
+118,exclude,survey of adoption factors
+154,exclude,case study alignment no method
+158,exclude,research agenda review
+125,exclude,no abstract discussion paper
+127,exclude,decision taxonomy report no uncertainty method
+121,exclude,no abstract
+76,exclude,behavioural EEG study
+201,exclude,no abstract guidance
+334,exclude,no abstract name only
+26,exclude,no abstract privacy
+27,unsure,dynamic Bayesian network flood defence cost title only
+341,exclude,bibliography
+58,exclude,acquisition analysis no uncertainty method
+49,include,stochastic linear programming under uncertainty
+86,exclude,no abstract vague
+143,exclude,no abstract vague
+120,exclude,no abstract political
+271,unsure,critique of decision analysis no abstract
+212,unsure,decision aid evaluation procedures report vague
+336,unsure,risk assessment risk management title only
+10,exclude,bibliography
+85,exclude,regulation book no decision method
+218,exclude,behavioural field experiment
+103,exclude,no abstract
+245,exclude,no abstract law
+254,exclude,descriptive cognitive review
+57,include,optimal maintenance policy with failure distributions
+62,include,Monte Carlo decision model with expert uncertainty
+216,unsure,value-based trial design title only
+98,exclude,no abstract
+64,exclude,forecast combination review no decision
+342,unsure,value of information workshop garbled
+150,exclude,conference front matter
+84,unsure,aggregating uncertainty garbled report
+96,unsure,health economic evaluation guide title only
+269,exclude,taxonomy no uncertainty
+279,exclude,no abstract process design
+36,exclude,practice report no decision method
+51,exclude,not research output
+72,exclude,no abstract
+97,exclude,no abstract
+131,exclude,lecture note
+170,exclude,empirical network study
+153,unsure,cost-effective research policy title only
+19,unsure,pesticide risk assessment title only
+169,exclude,qualitative accounting study
+191,exclude,no abstract
+340,exclude,survey of forecaster performance
+81,include,VOI and EVSI for research portfolio design
+157,exclude,no abstract report
+213,exclude,no abstract
+71,exclude,no abstract name only
+298,exclude,blockchain supply chain no uncertainty decision
+300,exclude,no abstract
+186,include,VOI process for trial prioritisation decisions
+17,exclude,not research
+174,exclude,newsletter
+159,exclude,no abstract
+220,exclude,library computing book
+166,unsure,HTA title only
+132,include,Bayesian optimization for control and research cost-effectiveness
+258,include,cost-effectiveness threshold estimation with uncertainty analysis
+32,exclude,no abstract ontologies
+289,exclude,workshop proceedings
+73,exclude,no abstract judgment study
+39,exclude,no abstract
+331,exclude,no abstract
+21,unsure,game model information asymmetry policy no explicit uncertainty
+275,exclude,journal issue
+337,exclude,no abstract
+206,unsure,adaptation options costs benefits title only
+83,exclude,no abstract institute overview
+230,exclude,no abstract opinion
+283,exclude,no abstract
+301,include,decision analysis for orchard adaptation investments
+171,include,site investigation to reduce geologic uncertainty and cost
+123,exclude,adoption determinants no uncertainty
+225,exclude,garbled report
+48,unsure,MCDM in climate assessment title only
+313,exclude,no abstract
+241,exclude,contract theory not decision support
+129,include,chance-constrained programming theory
+304,exclude,behavioural study
+147,exclude,no abstract
+13,exclude,curriculum
+113,unsure,scenario planning chapter vague
+223,include,Bayesian CEA with VOI
+82,exclude,not research
+168,exclude,deterministic decision rules no uncertainty
+235,exclude,no abstract working group listing
+89,include,participatory decision model with scenarios and uncertainty
+327,exclude,index
+149,unsure,decision perspective on uncertainty title only
+281,exclude,policy discussion no method
+74,exclude,descriptive analysis
+8,exclude,history
+317,exclude,no abstract
+140,exclude,no abstract
+192,exclude,no abstract
+142,exclude,no abstract
+306,include,decision theory under uncertainty for tutoring actions
+324,unsure,expert elicitation panel title only
+276,unsure,decision analysis for trial sequencing title only
+214,exclude,legal
+138,exclude,no abstract accounting theory
+321,exclude,decision aid evaluation report vague
+246,exclude,judgment weighting experiment no uncertainty
+45,exclude,no abstract
+50,exclude,no abstract
+14,include,simulation and optimization under demand uncertainty
+261,include,Bayesian decision analysis and VOI for health resource allocation
+87,exclude,bibliography
+203,exclude,no abstract
+323,exclude,uncertainty of carbon account no decision context
+94,unsure,regulatory impact analysis handbook title only
+330,unsure,decision analysis training essay
+202,exclude,meeting report
+139,include,EVSI Monte Carlo methods for decision models
+195,exclude,library report
+312,exclude,qualitative study
+267,unsure,essay on rationality probabilities utilities
+1,exclude,no abstract
+12,exclude,no abstract
+6,exclude,book listing
+319,unsure,title relevant but abstract is unrelated text
+59,exclude,no abstract
+38,exclude,no abstract
+322,exclude,legal book
+232,exclude,media analysis
+307,exclude,no abstract
+302,exclude,survey study
+274,exclude,proceedings
+156,unsure,reimbursement decision timing title only
+68,exclude,no abstract
+107,exclude,journal issue
+244,exclude,no abstract
+173,exclude,no abstract
+335,include,decision support under uncertainty with VOI package
+95,unsure,Bayesian simulation title only
+145,exclude,no abstract case study
+253,exclude,software cost estimation survey
+15,exclude,no abstract vague
+54,include,decision analysis overview of method
+28,include,VOI review
+37,include,stochastic decision analysis for agriculture interventions
+77,include,decision analysis and VOI for adaptive management
+199,exclude,survey SEM study
+66,exclude,behavioural experiment
+44,exclude,consumer surplus estimation
+239,unsure,sequential decision influence diagrams title only
+187,exclude,newsletter
+286,exclude,no abstract
+179,exclude,SEM survey
+226,exclude,no abstract
+53,exclude,no abstract
+176,exclude,no abstract
+297,exclude,no abstract
+104,exclude,no abstract
+346,exclude,no abstract
+257,unsure,Bayesian network practices diagnosis no abstract
+332,exclude,knowledge transfer report
+242,unsure,combining expert distributions chapter title only
+308,include,Bayesian decision modelling and VOI evidence synthesis
+293,exclude,deterministic programming no uncertainty
+101,exclude,no abstract
+124,exclude,thesis on standards no uncertainty decision method
+256,exclude,no abstract
+181,unsure,new risk methodology title only
+161,exclude,expert elicitation estimate no decision context
+296,exclude,no abstract
+325,exclude,group accuracy not decision support method
+343,exclude,review of industry economics
+31,exclude,no abstract
+305,exclude,perceptions study
+25,include,fuzzy uncertainty in bridge maintenance decisions
+148,unsure,structuring complex decisions title only
+207,exclude,focus group study
+227,exclude,no abstract
+162,exclude,AI review
+219,exclude,bibliography
+196,unsure,network meta-analysis for decisions statistical
+109,exclude,no abstract
+270,exclude,no abstract
+43,exclude,not research
+262,exclude,abstract booklet
+265,unsure,supply chain risk communication framework title only
+215,exclude,no abstract
+119,exclude,no abstract
+3,exclude,symposium proceedings
+20,exclude,no abstract
+56,exclude,classification scheme
+75,exclude,no abstract
+294,exclude,no abstract
+67,exclude,no abstract assessment valuation
+91,exclude,no abstract
+314,exclude,not research
+328,exclude,SEM survey
+167,exclude,Bayesian inference emphasis not decision-making
+198,unsure,policy framework title only
+146,exclude,conceptual framework no uncertainty method
+243,include,early decision modelling with uncertainty and evidence value
+292,exclude,no abstract
+266,unsure,decision analysts ethics title only
+46,exclude,no abstract platform
+290,exclude,no abstract
+234,exclude,no abstract
+114,unsure,scenarios and models for decisions title only

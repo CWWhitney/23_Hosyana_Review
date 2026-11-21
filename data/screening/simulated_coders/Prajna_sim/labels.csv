@@ -1,0 +1,301 @@
+sample_no,label,reason
+87,exclude,clinical review no explicit uncertainty decision method
+46,include,value of information model for trial decision
+161,unsure,fuzzy MCDM risk ranking uncertainty treatment unclear
+84,include,Markov cost-effectiveness with probabilistic sensitivity analysis
+136,include,value of information surveillance planning under risk
+144,exclude,tax expenditure measurement no uncertainty method
+106,exclude,descriptive survey no decision-support method
+252,exclude,social network causal method no decision context
+147,exclude,descriptive buyer behaviour study
+171,exclude,welfare polls discussion no uncertainty method
+159,exclude,no abstract title uninformative
+111,exclude,reliability engineering fault analysis no decision choice
+181,include,expected value of perfect implementation framework applied
+196,exclude,diagnostic accuracy study protocol
+293,include,expert elicitation protocol for health decision uncertainty
+260,exclude,descriptive case studies no decision-support method
+153,exclude,sensitivity analysis theory without decision context
+33,unsure,no abstract title vague
+38,exclude,textbook on media
+135,exclude,behavioural survey model
+239,exclude,toxicology statistics no decision context
+131,exclude,no abstract design review off topic
+200,exclude,deterministic AHP no uncertainty
+228,exclude,scenario model without uncertainty treatment
+211,exclude,no abstract off-topic ESG
+156,include,early economic evaluation with value of information
+47,unsure,title suggests climate decision under uncertainty no abstract
+175,unsure,economic values of management options no abstract
+7,include,value of information analyses for prioritization decisions
+36,exclude,theoretical cheap talk game no decision-support method
+81,exclude,education ethnography off topic
+218,unsure,comparative effectiveness in HTA no abstract
+103,exclude,development assistance relations off topic
+265,unsure,ex ante IT investment valuation decision theory no abstract
+276,unsure,clinical decision model construction no abstract
+294,unsure,metamodelling title only unclear
+88,include,value of information applied to pandemic mitigations
+194,unsure,simulation decision support abstract missing
+53,exclude,network theory advice seeking
+180,exclude,descriptive adoption factors study
+127,exclude,fuzzy QFD prioritization no decision under uncertainty
+258,include,expert elicitation protocol uncertainty for risk decisions
+235,include,Monte Carlo and scenario discovery for policy pathways
+91,include,Bayesian forecast of management strategy options
+125,unsure,integrated assessment site management no abstract
+231,include,methods to elicit expert distributions in HTA
+280,exclude,descriptive stakeholder value study
+67,include,inventory policy tested with Monte Carlo demand uncertainty
+289,exclude,no relevant abstract
+20,unsure,cost benefit analysis no abstract
+140,include,Bayesian decision support for policy under uncertainty
+234,exclude,behavioural investor study
+59,unsure,surveillance evaluation tool uncertainty treatment unclear
+138,exclude,econometric trade study
+192,unsure,Bayesian network inspection efficiency weak decision link
+97,exclude,psychology of stress
+262,exclude,no abstract communication topic
+170,exclude,statistics textbook no decision context
+284,unsure,title on decisions under uncertainty no abstract
+133,unsure,risk assessment report no abstract
+223,unsure,supply chain contract partial information no abstract
+248,include,decision tree and influence diagram for security risk
+43,exclude,productivity economics off topic
+282,unsure,climate risk screening model no abstract
+22,exclude,survey SEM study
+86,exclude,review of decision aid content no uncertainty method
+114,exclude,field reflection no decision method
+41,exclude,monitoring network engineering design
+76,include,adversarial risk analysis decision analysis under uncertainty
+137,exclude,social capital network study
+245,exclude,education thesis model
+104,exclude,optimal control emissions no uncertainty treatment
+21,exclude,descriptive business practices
+210,exclude,deterministic optimization no uncertainty
+154,unsure,software risk method qualitative decision link unclear
+155,exclude,media economics title only off topic
+118,exclude,retrospective regression no decision method
+206,exclude,legal theory title only
+83,unsure,information decisions theory no abstract
+257,include,Bayesian risk probability model supporting decisions
+263,include,microsimulation cost-effectiveness with probabilistic analysis
+116,exclude,data mining no decision method
+269,unsure,simulation model description uncertainty not stated
+217,unsure,policy simulation model uncertainty treatment not stated
+128,include,investment decision uncertainty with decision analysis proposed
+287,unsure,cost benefit adaptation options no abstract
+259,exclude,econometric descriptive study
+224,exclude,legal property rights analysis
+68,unsure,cyber risk prioritization no abstract
+162,unsure,stochastic maintenance policy engineering decision
+142,include,portfolio value of information framework
+164,include,value of information under risk and ambiguity
+26,include,cost-effectiveness informing research decisions value of information logic
+126,exclude,review of outcome assessment no decision method
+268,exclude,survey study firm performance
+58,exclude,literature review supply chain collaboration
+90,exclude,assessment report no abstract
+165,exclude,regression archival study
+299,unsure,cost-effectiveness title only
+199,exclude,financing contracts discussion no decision method
+247,exclude,descriptive co-production experience no decision method
+216,include,probabilistic MCDA with Monte Carlo uncertainty
+92,exclude,consumer survey study
+233,exclude,survey based empirical study
+65,unsure,HTA primary data collection discussion VOI implied
+77,exclude,visualization research reflection
+2,exclude,AI optimization review no decision under uncertainty
+74,exclude,RFID quality system engineering
+145,exclude,fuzzy process analysis no decision choice
+27,include,probability bounds analysis for decision-analytic uncertainty
+178,exclude,qualitative risk framework case study
+188,unsure,metamodelling policy simulations uncertainty link unclear
+19,include,Monte Carlo decision support with value of information package
+120,include,EVPPI research prioritization case study
+40,exclude,no abstract vague title
+5,include,decision analysis practice under uncertainty societal risk
+241,exclude,patent analysis
+243,exclude,infectious disease statistics handbook
+232,unsure,review of strategic decision methods uncertainty treatment unclear
+198,exclude,descriptive case study
+73,exclude,ecological occupancy survey
+70,exclude,public attitudes review
+202,include,normative decision methods for catastrophic risk uncertainty
+203,include,Monte Carlo evaluation of sampling cost versus management decision error
+124,include,expert elicitation informing R&D portfolio decision
+105,exclude,economic growth forecast no decision context
+160,unsure,decision analysis critique no abstract
+207,unsure,health economics genomics no abstract
+60,include,stochastic optimization and sensitivity analysis for adaptation planning
+213,exclude,deterministic MCDM information types
+193,include,Markov cost-effectiveness with probabilistic sensitivity analysis
+51,exclude,book review game theory
+101,exclude,workshop preface
+174,exclude,time series prediction no decision context
+209,exclude,legal interpretation title only
+18,exclude,qualitative user perception study
+201,exclude,literature survey information needs
+273,exclude,data quality metric no decision context
+132,exclude,qualitative information behaviour
+169,unsure,fuzzy industry selection no abstract
+48,exclude,legal procedure discussion
+227,exclude,descriptive analysis of action plans
+50,unsure,gene drive management models no abstract
+113,include,decision analysis structuring methodology
+184,exclude,descriptive event study of market reaction
+71,exclude,regional economics concept
+167,exclude,empirical demand model not decision support
+80,include,explicit uncertainty in environmental policy analysis
+13,exclude,qualitative stakeholder perspectives study
+6,include,multiobjective screening with interval uncertainty parameters
+107,unsure,management model title only no abstract
+29,exclude,research agenda no decision method
+123,exclude,crowdfunding review no abstract
+190,exclude,economic theory model not decision support method
+272,unsure,omics cost-effectiveness methods argument unclear on uncertainty
+242,exclude,forecast updating procedure not decision choice
+28,unsure,conceptual prioritisation chapter uncertainty role unclear
+296,exclude,research framework no uncertainty decision method
+240,exclude,organisational decision communication no abstract
+102,unsure,Bayesian networks defence applications no abstract
+253,include,value of implementation investment with sensitivity analysis
+271,include,uncertainty analysis approach for policy simulation models
+25,unsure,expert judgment title only
+158,unsure,decision theoretic privacy model no abstract
+34,exclude,qualitative review of hesitancy factors
+23,exclude,conceptual pricing framework
+182,exclude,business intelligence case no abstract
+244,include,Bayesian models comparing management reference points
+274,include,framework for decisions under movement uncertainty
+1,exclude,research method for treatment evaluation not decision
+37,exclude,supply chain profit title only
+197,exclude,cognitive innovation title only
+176,exclude,deterministic Grey DEMATEL factors
+72,exclude,supply chain information review
+278,exclude,ethics ICT title only
+121,unsure,decision theory title only no abstract
+79,exclude,data quality workshop report
+297,unsure,evaluation model title only no abstract
+94,unsure,risk assessment guide for highways uncertainty treatment unclear
+55,include,expected value of sample information with implementation dynamics
+31,include,Bayesian decision analysis simulation approach
+256,unsure,review of simulation models no abstract
+93,exclude,workshop summary no abstract
+166,exclude,behavioural economics experiment
+149,exclude,descriptive diary study
+225,exclude,value of information only mentioned in passing
+219,exclude,perception survey
+112,unsure,review of economic evaluations uncertainty discussed but descriptive
+300,exclude,qualitative risk identification
+148,exclude,descriptive survey of monitoring
+146,exclude,consumer experiment
+119,exclude,behavioural title only
+152,exclude,organisational path analysis
+44,exclude,metaheuristic optimization no abstract
+61,exclude,legal topic
+99,exclude,qualitative case study
+64,unsure,value of cargo information modes no abstract
+275,exclude,defence agility book
+15,exclude,not decision related
+183,include,evaluation of value of information implementation in HTA decision
+49,exclude,book on science politics
+151,include,stochastic newsvendor decision under random demand
+251,exclude,social capital title only
+117,include,research versus approval decisions with value of evidence
+3,exclude,security engineering review no decision under uncertainty
+221,exclude,acknowledgements only no content
+54,unsure,sea-level rise cost title only
+270,exclude,call for studies no method
+189,include,textbook on simulating uncertainty for economic decisions
+267,exclude,library history
+17,exclude,acknowledgement text only
+130,exclude,design title only no abstract
+249,exclude,forecasting regression not decision
+108,include,value of information decision analysis site investigation
+285,exclude,intellectual property theory
+52,unsure,value-based pricing data sources no abstract
+96,exclude,empirical firm behaviour
+10,include,value of information computation for decisions
+150,exclude,competitor analysis thesis
+292,exclude,priority setting exercise not decision under uncertainty
+168,unsure,collaborative investment coordination no abstract
+281,exclude,investor guide no abstract
+63,exclude,conceptual innovation adoption
+57,exclude,survey of planning information behaviour
+230,exclude,policy title only
+39,exclude,neuroscience review of choice behaviour
+298,exclude,report title only
+291,exclude,traffic simulation model not decision support
+14,exclude,exposure assessment method without decision choice
+214,exclude,accounting lab methods title only
+286,exclude,theoretical committee model
+11,unsure,yield misspecification inventory problem no abstract
+222,unsure,surveillance cost-benefit methods no abstract
+238,unsure,cost-effectiveness abstract too short
+277,unsure,wildfire risk models review decision link vague
+12,exclude,qualitative adoption study
+185,unsure,trial design for comparative effectiveness abstract truncated
+32,exclude,critique of risk theory no decision-support method
+30,exclude,survey of decision criteria
+129,exclude,economics book
+254,include,quantitative benefit-risk modelling with uncertainty
+186,include,Bayesian networks for risk management decisions
+215,exclude,title only unclear
+69,exclude,preparedness behaviour study
+290,unsure,supply chain contract under uncertainty no abstract
+208,exclude,theory title only
+42,unsure,supply chain model under fluctuations no abstract
+261,unsure,probabilistic projections without explicit decision
+191,include,adaptive management decisions under uncertainty value of information
+24,exclude,clinical title only
+143,include,eliciting distributions for decision analytic models
+236,exclude,survey SEM investor behaviour
+163,unsure,Markov cost-utility uncertainty analysis not visible in abstract
+205,exclude,game theory thesis
+226,include,planning under uncertainty via stochastic decision rules
+195,exclude,empirical survey of business case control
+279,exclude,education study
+173,unsure,guide to interpreting decision models uncertainty not explicit
+66,exclude,emulation statistics no decision context
+35,exclude,descriptive model of clinical decision processes
+110,unsure,risk-based ranking approach no abstract
+246,exclude,survey SEM civic engagement
+264,exclude,agronomy thesis
+295,exclude,clinical protocol tools no uncertainty treatment
+4,exclude,survey regression adoption
+109,exclude,information system design no uncertainty treatment
+100,exclude,regression on political risk and innovation
+82,unsure,risk assessment reframing proposal conceptual
+89,unsure,fuzzy risk ranking of delivery systems uncertainty via fuzzy
+220,exclude,qualitative consumer study
+134,exclude,seminar notice
+177,exclude,agent-based decision support no uncertainty shown
+266,exclude,database cases book
+75,unsure,trial protocol with uncertainty quantification aims unclear
+157,include,optimization under uncertainty for species recovery decisions
+250,exclude,regulatory proposal no uncertainty method
+229,exclude,qualitative multi-case study
+204,exclude,game-theoretic scheduling not uncertainty decision support
+98,exclude,descriptive reverse logistics chapter
+62,unsure,economic modelling of pathways no abstract
+179,exclude,broad review of supply chain models
+78,exclude,qualitative practice study
+16,exclude,education study
+141,exclude,survey of outsourcing risks
+187,exclude,social topic off-topic
+172,exclude,literature review title only
+255,include,Bayesian network quantifying information risk for mitigation choice
+8,unsure,optimal deployment title only
+122,exclude,practitioner book on cloud adoption
+95,unsure,climate policy under uncertainty no abstract
+212,exclude,philosophical argument
+139,exclude,process modelling method uncertainty peripheral
+283,include,Bayesian decision analysis with value of research
+237,exclude,theoretical information value no uncertainty method
+56,exclude,finance perspective title only
+115,exclude,interview study
+85,exclude,meta-analysis of treatment effects no decision framework
+45,exclude,science studies essay
+9,include,framework to quantify uncertainty in cost-effectiveness analyses
+288,exclude,decision support system title only

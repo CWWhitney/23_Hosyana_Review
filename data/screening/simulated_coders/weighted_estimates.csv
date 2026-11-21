@@ -1,0 +1,4 @@
+class,estimate,low,high,share
+include,1581,1234,1929,0.142
+unsure,2270,1748,2792,0.204
+exclude,7300,6733,7867,0.655

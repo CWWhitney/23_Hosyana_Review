@@ -1,0 +1,4 @@
+pair,n,agree,kappa
+Cory_sim vs Prajna_sim,300,0.933,0.88
+Cory_sim vs Dorcas_sim,300,0.933,0.878
+Prajna_sim vs Dorcas_sim,300,0.927,0.867
